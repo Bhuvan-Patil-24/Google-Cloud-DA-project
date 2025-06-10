@@ -105,12 +105,3 @@ The project followed a structured approach encompassing **data engineering**, **
 | **Looker Studio**  | Executive reports and visualizations |
 
 ---
-
-## 📂 Directory Structure
-
-├── allCreatedTables.csv # Cleaned/created table data
-├── allTables.csv # Raw or intermediate tables
-├── dashboard.png # Looker Enterprise dashboard image
-├── Website_Visitors-Report.pdf # Looker Studio report
-├── sqlQueries.sql # Data transformation SQL code
-└── README.md # Project documentation
